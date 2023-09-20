@@ -11,6 +11,10 @@ date: "2023-2024"
 
 <!--- pandoc files/guia_TFG.md -o files/guia_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
 
+**Página web con información y recursos:**
+
+- [https://ccss-uc3m.github.io/TFG](https://ccss-uc3m.github.io/TFG)
+
 ## Matrícula y cuestiones administrativas
 
 Las instrucción y normas para la matrícula se publican en la [web de Secretaría Virtual](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoDosColumnas/1371241563580/Trabajo_de_Fin_de_Grad). Las preguntas sobre el proceso de matriculación y otras cuestiones administrativas se han de hacer al Director de la Oficina de Estudiantes de la FCSJ, Raúl Blanco ([rblanco@pa.uc3m.es](rblanco@pa.uc3m.es)).
