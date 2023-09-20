@@ -1,0 +1,397 @@
+\documentclass[utf8, xcolor=dvipsnames]{beamer}
+% \usetheme{Frankfurt} % Boadilla - Ilmenau
+
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{csquotes}
+\usepackage{changepage}
+\usepackage{color}
+\usepackage[colorlinks = TRUE, allcolors = blue]{hyperref}
+\useinnertheme{rectangles}
+\usepackage{tikz}
+\usetikzlibrary{graphs}
+
+\setbeamercovered{transparent}
+\setbeamercolor{title}{bg=Blue, fg=white}
+\setbeamercolor{title_int}{bg=white, fg=Blue}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{itemize items}[circle]
+\setbeamertemplate{blocks}[default]
+\setbeamertemplate{headline}[default]
+\setbeamertemplate{section in head}{}
+\setbeamertemplate{subsection in head}{}
+\setbeamercolor{section in foot}{fg=Blue, bg=white}
+\setbeamercolor{subsection in foot}{fg=Blue, bg=white}
+\setbeamercolor{frametitle}{fg=Blue, bg=white}
+\setbeamercolor{footlinecolor}{bg=white,fg=Blue}
+\useoutertheme[compress]{miniframes}
+
+\makeatother
+\setbeamertemplate{footline}
+{%
+  \leavevmode%
+  \hbox{
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{footlinecolor}%
+    \usebeamerfont{author in head/foot}
+    \insertshorttitle\hfill\insertshortauthor\hfill\insertshortdate\hfill\insertframenumber/\inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\setbeamertemplate{headline}[default]
+{%
+    \def\beamer@entrycode{\vspace*{0pt}}
+}
+\makeatletter
+
+\title[]{Información TFG\\Ciencias Políticas / Estudios Internacionales}
+\author[]{Francisco Villamil\\(\texttt{francisco.villamil@uc3m.es})\\Coordinador de TFG de CCPP y EEII}
+\date[]{2022--2023}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Básicos}
+\centering
+
+\begin{itemize}
+  \item Información general Facultad de Ciencias Sociales y Jurídicas
+  \item[] {\footnotesize \url{https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoDosColumnas/1371241563580/Trabajo_de_Fin_de_Grad}}
+  \item[]
+  \item Reglamento TFG de la FCSJ
+  \item[] {\footnotesize \url{https://www.uc3m.es/secretaria-virtual/media/secretaria-virtual/doc/archivo/doc_reglamento-tfg-20-21/reglamento-tfg_sept_2020.pdf}}
+  \item[]
+  \item Información Departamento de Ciencias Sociales
+  \item[] {\footnotesize \url{https://franvillamil.github.io/TFG}}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Personas}
+\centering
+
+\begin{itemize}
+  \item \textbf{Tutor} de cada TFG
+  \item \textbf{Coordinador}: se ocupa de las tareas académicas (organización ofertas y temas, tribunales, etc), no administrativas
+  \item[]
+  \item \textbf{Oficina de Estudiantes de Grado} (OEG) se ocupa de las \textbf{tareas administrativas} (matriculación, requisitos académicos, etc)
+  \begin{itemize}
+    \item Edificio Decanato
+    \item \textbf{Rosa Blanca Martín} (\url{rosablanca.martin@uc3m.es})
+    \item \textbf{Raúl Blanco} (\url{raul.blanco@uc3m.es}) (Director)
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Normas básicas}
+\centering
+
+
+\begin{itemize}
+  \item Condición para la evaluación de un TFG: Que el autor del trabajo no tenga pendientes de superar para la obtención del título más de 30 créditos ECTS, incluidos en ese cómputo los créditos de prácticas externas. (Y que sea depositado en la herramienta online.)
+  \item Los estudiantes que, habiendo matriculado la asignatura, no cumplieran con el mínimo de créditos exigidos para su evaluación, podrán dispensar la convocatoria. Si el trabajo ya hubiese sido depositado e informado favorablemente por el tutor, el estudiante podrá presentar el mismo trabajo en la siguiente convocatoria a la que se presente.
+  \item[]
+  \item La OEG comprueba estos requisitos cuando se solicita la evaluación.
+\end{itemize}
+
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Convocatorias y llamamientos}
+\centering
+
+\begin{itemize}
+  \item Dos convocatorias: anticipada (otoño) y general (primavera)
+  \item Cada convocatoria tiene \textbf{dos} llamamientos para la evaluación:
+  \begin{itemize}
+    \item Anticipada: Febrero y Julio/Septiembre
+    \item General: Junio y Julio/Septiembre
+  \end{itemize}
+  \item Pero \textbf{sólo se puede elegir un llamamiento}
+  \item Si no se va a ninguno: No presentado / Dispensa
+  \item[] (Info sobre dispensa en la web de la OEG)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Calendario otoño (convocatoria anticipada)}
+\centering
+
+\begin{itemize}
+  \item Ofertas y asignación: septiembre
+  \item Periodo tutorización: septiembre-diciembre
+  \item[]
+  \item \textbf{1er llamamiento:}
+  \item[-] Entrega: finales enero/principios febrero
+  \item[-] Defensa: febrero
+  \item[]
+  \item \textbf{2do llamamiento:}
+  \item[-] Entrega: julio
+  \item[-] Defensa: septiembre
+  \item[] (La tutorización termina con el periodo lectivo del 1C)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Calendario primavera (convocatoria general)}
+\centering
+
+\begin{itemize}
+  \item Ofertas y asignación: inicio febrero
+  \item Periodo tutorización: febrero-mayo
+  \item[]
+  \item \textbf{1er llamamiento:}
+  \item[-] Entrega: primera mitad de junio
+  \item[-] Defensa: finales junio / principios julio
+  \item[]
+  \item \textbf{2do llamamiento:}
+  \item[-] Entrega: julio
+  \item[-] Defensa: septiembre
+  \item[] (La tutorización termina con el periodo lectivo del 2C)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Evaluación}
+\centering
+
+\begin{itemize}
+  \item \textbf{30\%} nota de seguimiento del \textbf{tutor}
+  \begin{itemize}
+    \item Media de la nota de 1) planificación, 2) seguimiento y 3) presentación
+  \end{itemize}
+  \item[]
+  \item \textbf{70\%} nota del \textbf{tribunal} en defensa pública
+  % \begin{itemize}
+  %   \item Evalúa calidad académica y presentación
+  % \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Calificación tutor}
+\centering
+
+\begin{itemize}
+  \item \textbf{Planificación y progreso de la tarea}
+  \item[] {\small El estudiante ha asistido a las tutorías y actividades programadas y ha cumplido con los plazos indicados por el tutor. El estudiante ha desempeñado su labor con aprovechamiento.}
+  \item \textbf{Seguimiento}
+  \item[] {\small El estudiante ha seguido eficazmente las recomendaciones del tutor a la vez que ha mostrado iniciativa para buscar soluciones válidas y justificadas de forma autónoma.}
+  \item \textbf{Presentación}
+  \item[] {\small La memoria cumple los requisitos formales y de calidad exigidos.}
+  \item[]
+  \item Tutor/a informará al estudiante de la nota y si la evaluación es positiva o negativa (se puede defender igualmente)
+  \item \textbf{{\color{red}{Importante}}} empezar temprano y tener contacto con el tutor (puede suspenderse esta nota si el estudiante trabaja al margen del tutor)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Revisión de la nota del tutor}
+\centering
+
+\begin{itemize}
+  \item El/la tutor/a \textbf{ha de comunicar por escrito} su nota (incluyendo los 3 componentes)
+  \item El/la estudiante tiene derecho a solicitar \textbf{revisión}:
+  \begin{itemize}
+    \item Tutor/a fija lugar y fecha para revisión, \textbf{que ha de realizarse antes de que comiencen los tribunales}
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Defensa pública}
+\centering
+
+\begin{itemize}
+  \item Defensa pública, que ha de ser \textbf{presencial}, salvo causas muy justicadas
+  \begin{itemize}
+    \item \textbf{10 minutos} de presentación oral
+    \item \textbf{10 minutos} de preguntas del tribunal
+    \item \textbf{10 minutos} de deliberación a puerta cerrada
+  \end{itemize}
+  \item Nota del tribunal:
+  \begin{itemize}
+    \item \textbf{Memoria}: 50\%
+    \item \textbf{Metodología}: 30\%
+    \item \textbf{Defensa oral}: 20\%
+  \end{itemize}
+  \item Al terminal, el tribunal comunicará su nota y la nota final a el/la estudiante, que firmará el acta si está conforme
+  \item El/la estudiante puede solicitar revisión en ese mismo momento
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Nota del tribunal}
+\centering
+
+\begin{itemize}
+  \item \textbf{Memoria (5):} contenido original, buen objeto de estudio y RQ, buena síntesis y análisis de la información, buena estructura y bien escrito
+  \item \textbf{Metodología (3):} métodos coherentes con lo que se estudia y buena implementación
+  \item \textbf{Defensa (2):} buena presentación oral, el/la estudiante ha sabido responder con soltura a las preguntas
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Revisión de la nota del tribunal}
+\centering
+
+\begin{itemize}
+  \item El tribunal evaluador debe detallar la calificación de cada uno de los items
+  \item El/la estudiante dispone de un tiempo máximo de 5 minutos
+  para exponer sus alegaciones de forma verbal, tras lo cual el tribunal formulará las
+  explicaciones que considere convenientes y comunicará si la
+  reclamación ha sido estimada
+  \item El tribunal evaluador debe indicar en el acta si se ha solicitado la revisión y si esta ha supuesto algun cambio
+  \item[]
+  \item Tras esto, sólo se puede reclamar ante Decanato si la revisión no hubiese tenido lugar o si hubiese irregularidades manifiestas (reglamento, Art. 24)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Cierre de actas}
+\centering
+
+\begin{itemize}
+  \item El tribunal envía las actas directamente a la OEG
+  \item Tras unos días después del final de todos los tribunales, se cierran las actas y ya se puede solicitar el título
+  \item Para dudas sobre esto: OEG
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Plagio}
+\centering
+
+\begin{itemize}
+  \item Todos los trabajos pasan por \textbf{Turnitin}
+  \item ``Los trabajos en los que se haya detectado plagio se calificarán con un cero-suspenso, haciéndose constar en el acta dicha circunstancia, sin perjuicio de la apertura del procedimiento disciplinario que, en su caso, proceda''
+\end{itemize}
+
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Tutorización}
+\centering
+
+\begin{itemize}
+  \item Periodo de tutorización: desde la asignación hasta el final del periodo lectivo
+  \begin{itemize}
+    \item \textbf{Nota:} incluso aunque se posponga al segundo llamamiento
+  \end{itemize}
+  \item Tutorías (mínimo de 5h en total, de las cuales al menos 3h individuales):
+  \begin{itemize}
+    \item Colectivas
+    \item Individuales
+  \end{itemize}
+  \item Obligaciones del tutor además de las tutorías: escribir el informe tutor y \textbf{comunicar} la nota al estudiante \textbf{por escrito}
+  \item[]
+  \item De nuevo: Es \textbf{{\color{red}{importante}}} empezar a trabajar temprano y en contacto con el tutor
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Normas básicas del TFG}
+\centering
+
+\begin{itemize}
+  \item \textbf{Idioma:} depende de la titulación (CP: español, EI: inglés)
+  \item[]
+  \item \textbf{Extensión:} max. 25 páginas, Times New Roman 12, interlineado 1.5 y márgenes estándar (2.25cm). (Se excluye el Appendix, pero incluye todo lo demás: bibliografía, gráficos, etc.)
+  \item \textbf{Tablas y gráficos:} en el texto principal, numeradas/os.
+  \item \textbf{Appendix:} al final, incluye toda la información adicional.
+  \item \textbf{Bibligrafía:} no hay un estilo prefijado, pero sí que ha de ser coherente y único: referencias ordenadas alfabéticamente al final, citas correctas: e.g. Smith (2010), etc.
+  \item \textbf{Portada:} estructura estándar con todos los datos necesarios (nombre, apellidos, NIU, email, título, nombre tutor...)
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Normas básicas del TFG}
+\centering
+
+\begin{itemize}
+  \item Trabajo de investigación original research paper with a clear question
+  \item Pregunta de investigación, y evidencia empírica para responderla
+  \begin{itemize}
+    \item Valen tanto datos cualitativos como cuantitativos
+  \end{itemize}
+  \item Estructura típica
+  \begin{itemize}
+    \item (Título y abstract/resumen)
+    \item Introducción
+    \item Revisión de la literature
+    \item Marco teórico
+    \item Resultados y discusión
+    \item Conclusiones
+    \item (Bibliografía y appendix)
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{}
+\centering
+
+Preguntas?
+
+\end{frame}
+% ----------------------------------------------------
+
+\end{document}

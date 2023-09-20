@@ -1,0 +1,24 @@
+code {
+  padding: 0;
+  font-size: 90%;
+  color: black;
+  background-color: white;
+  border: 0px solid white;
+}
+
+a code {
+  color: #08c;
+}
+
+/* Form stuff */
+form {
+  width: 500px;
+}
+
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}
