@@ -16,7 +16,7 @@ author: |
 3. Organización interna / Internal (department) organization
 4. Obligaciones de tutorización / Tutoring obligations
 5. Tribunales y evaluación / Tribunals and evaluation
-- [Web de TFG del departamento](https://franvillamil.github.io/TFG/) (por el momento)
+- [Web: **https://ccss-uc3m.github.io/TFG**](https://ccss-uc3m.github.io/TFG)
 
 # 1. Información básica
 
@@ -111,7 +111,12 @@ El periodo de tutorización **termina junto con el periodo lectivo.** A partir d
 
 La nueva normativa establece que **el tutor debe comunicar a su estudiante, antes de la entrega definitiva del trabajo para su evaluación, si lo considera o no suficiente para aprobar.** Para ello, es necesario que el tutor fije una fecha para que el estudiante le haga entrega directa de un borrador final de su TFG. Esta fecha debe ser entre la finalización de la tutorías y la fecha de entrega final. En cualquier caso, el estudiante puede entregar el trabajo con independencia de que el tutor lo considere suficiente o no para aprobar.
 
-En caso de que el estudiante finalmente se presente a un llamamiento y haga entrega del trabajo, el tutor debe valorar éste y redactar el **informe tutor**. La valoración del tutor representa el 30% de la calificación del TFG. En él, los tutores valorarán el seguimiento del estudiante, y pondrán una nota a éste. Aquí se valora el seguimiento el trabajo del estudiante durante el curso y la presentación final del TFG, pero no su contenido académico.
+En caso de que el estudiante finalmente se presente a un llamamiento y haga entrega del trabajo, el tutor debe valorar éste y redactar el **informe tutor**. La valoración del tutor representa el 30% de la calificación del TFG. En él, los tutores valorarán el seguimiento del estudiante, y pondrán una nota a éste. Las tres dimensiones que valora el tutor son:
+
+1. **Planificación y progreso**: El estudiante ha asistido a las tutorías y actividades programadas y ha cumplido con los plazos indicados por el tutor. El estudiante ha desempeñado su labor con aprovechamiento.
+2. **Seguimiento**: El estudiante ha seguido eficazmente las recomendaciones del tutor a la vez
+que ha mostrado iniciativa para buscar soluciones válidas y justificadas de forma autónoma.
+3. **Presentación**: La memoria cumple los requisitos formales y de calidad exigidos.
 
 **Es importante que, una vez valorado el TFG, el tutor debe comunicar por escrito la calificación a su estudiante y fijar una fecha de revisión si el estudiante lo solicita.** La revisión ha de ser **antes del tribunal.** Esto no es muy frecuente, y hay más detalles en el Reglamento de la Facultad.
 
@@ -150,10 +155,10 @@ En estos casos, el acta también tiene que ser firmada por todos. Esta firma pue
 
 ### 5.3 Reclamación de la nota
 
-Si, después de que se le comunique la nota, un estudiante no está conforme con la nota del tribunal, el procedimiento es el siguiente:
+Si, después de que se le comunique la nota, un estudiante no está conforme con la nota del tribunal, el procedimiento es el siguiente (que se realizarán cuando hayan terminado todas las defensas de ese día):
 
-1. El estudiante solicita al tribunal la revisión, y el tribunal detalla la calificación de cada apartado.
-2. El estudiante tiene un máximo de 5 minutos para exponer su punto de visto, y acto seguido el tribunal le comunica y justifica si se acepta o no la revisión de la nota.
+1. El estudiante solicita al tribunal la revisión, y el tribunal detalla la calificación de cada apartado. **IMPORTANTE:** Hay que permitir al estudiante que solicite la defensa y exponga las razones para ello por escrito, utilizando el acta para ello.
+2. La deliberación tiene lugar a **puerta cerrada**. Acto seguido el tribunal le comunica y justifica si se acepta o no la revisión de la nota.
 3. Si hay revisión, hay que rellenar otra acta en el que se especifica si la nota se ha revisado o no.
 
 <!--
