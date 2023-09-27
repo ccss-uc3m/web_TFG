@@ -1,15 +1,15 @@
 ---
 title: |
-  | GUÍA TFG
+  | GUÍA PARA ESTUDIANTES
   |
-  | Ciencias Políticas / Estudios Internacionales
+  | TFG Ciencias Políticas / Estudios Internacionales
 author: |
   | Departamento de Ciencias Sociales
   | Universidad Carlos III de Madrid
 date: "2023-2024"
 ---
 
-<!--- pandoc files/guia_TFG.md -o files/guia_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
+<!--- pandoc files/guia_estudiantes_TFG.md -o files/guia_estudiantes_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
 
 **Página web con información y recursos:**
 
@@ -51,9 +51,9 @@ El objetivo del TFG es que el alumno realice un trabajo científico riguroso y 
 
 Independientemente de la metodología o del tipo de trabajo que se realice, todos los TFG tienen que tener un componente analítico (ya sea empírico o teórico) y han de contener argumentos originales, más allá de resumir trabajos previos.
 
-La gran mayoría de TFG de EEII o CCPP tienen un componente empírico, es decir, utilizan una metodología empírica para responder a alguna pregunta. La evidencia empírica y la metodología pueden ser tanto cuantitativa como cualitativa.
+La gran mayoría de TFG de EEII o CCPP tienen un componente empírico, es decir, utilizan una metodología empírica para responder a alguna pregunta. La evidencia empírica y la metodología pueden ser tanto cuantitativa como cualitativa. Ejemplos de esta última pueden ser estudios de caso o investigación documental.
 
-También es posible realizar un TFG totalmente teórico, y algunas de las ofertas de tutorización se centradas en trabajos teóricos. No obstante, el trabajo no puede ser un mero resumen de trabajos anteriores y ha de incluir contenidos originales de tipo analítico.
+También es posible realizar un TFG totalmente teórico, y algunas de las ofertas de tutorización están centradas en trabajos teóricos. No obstante, el trabajo no puede ser un mero resumen de trabajos anteriores y ha de incluir contenidos originales de tipo analítico.
 
 Por un último, un TFG puede ser una revisión de bibliografía, a pesar de que, por lo general, estos trabajos no aspiran a las notas más altas. En cualquier caso, un mero resumen de trabajos previos puede no ser suficiente para aprobar, y aunque se trate de una revisión de la literatura, debe incluir contenido original en forma de crítica y análisis.
 

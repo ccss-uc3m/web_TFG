@@ -85,7 +85,7 @@ En la **modalidad general**, en teoría, los profesores se ofrecen a tutorizar u
 
 En la práctica no hay tanta diferencia. En el departamento de CCSS, a partir del curso 2023-2024, vamos a priorizar la modalidad específica, pero publicando las ofertas previamente y dejando que la OEG haga la asignación en base a las preferencias de los estudiantes y la nota de expediente. Esto quieres decir:
 
-1. Se pedirá a cada profesor con bastante antelación (julio) una **lista de unos 10 temas** en los que se sentiría cómodo tutorizando. Algunos se puede repetir, y pueden ser generales o específicos. Idealmente, deberían de estar ordenados de mayor a menor preferencia. (Cada año se ofrecerá actualizarlos.)
+1. Se pedirá a cada profesor con bastante antelación una **lista de unos 10 temas** en los que se sentiría cómodo tutorizando. Algunos se puede repetir, y pueden ser generales o específicos. Idealmente, deberían de estar ordenados de mayor a menor preferencia. (Cada año se ofrecerá actualizarlos.)
 2. Al inicio del curso, o del cuatrimestre, se publicarán el número de ofertas de cada profesor siguiendo la carga de TFG que tenga. Si hay más TFG que temas, se repetirán los temas.
 3. **Importante:** algunos estudiantes contactan a los profesores por email para pedirles que sean sus tutores. Si eso ocurre, es mejor decirles que **escojan al profesor/a en la oferta general.** Si un profesor decide tutorizar un estudiante por su cuenta, y éste lo solicita específicamente, ese TFG no contará para la carga anual. (Esto es debido a que sino, no hay forma de controlar cuántos TFG se asignan a cada profesor.)
 
@@ -95,11 +95,11 @@ Actualmente, el cálculo del departamento es que tutorizar 7 TFGs equivale a un 
 
 Por razones de calidad de la docencia en los grupos, se intenta priorizar que sean profesores a tiempo completo del departamento quienes tutoricen los TFG, por lo que el estándar es que todos los profesores hagan un grupo de TFGs (7). Esto no es suficiente , por lo que se complementa con profesores asociados o, en algunos casos, algún profesor a tiempo completo tutoriza un número mayor de TFGs. En cualquier caso los TFGs cuentan para el cálculo de carga docente anual.
 
-Por el momento, los tribunales no entran dentro del cálculo de carga docente, pero se reparten equitativamente entre todos los profesores a tiempo completo con docencia en el departamento. Debido al número de TFG que tenemos (~500 cada curso) y el número de profesores a tiempo completo, un **reparto** equitativo equivale a que **cada profesor evalúe, aproximadamente, unos 20 TFGs al año**. Esto son 8h de tribunales cada curso académico.
+Por el momento, los tribunales no entran dentro del cálculo de carga docente, pero se reparten equitativamente entre todos los profesores a tiempo completo con docencia en el departamento. Debido al número de TFG que tenemos (~500 cada curso) y el número de profesores a tiempo completo, un **reparto** equitativo equivale a que **cada profesor evalúe, aproximadamente, unos 15-20 TFGs al año**. Esto son 8h de tribunales cada curso académico.
 
 Los tribunales se pueden hacer en febrero, junio o septiembre. La gran mayoría, sin embargo, son en junio, por lo que la libertad para elegir cuándo hacerlos no es total. Algunos profesores tienen compromisos en algunas de esas fechas: conferencias, clases, etc. A partir del curso 2023-24, se pondrá un procedimiento para que, alrededor de enero, los profesores puedan decir si en alguno de esos meses no van a estar disponibles para evaluar TFG por alguna de las razones de arriba.
 
-Aunque organizativamente y quizás por razones de eficiencia sería deseable que todo el mundo hiciese los 20 TFG a la vez (ya sea en un sólo día o en dos seguimos durante el mismo llamamiento), a veces esto no es posible o preferible. Se preguntará también si se prefiere hacen todos en un mismo día o repartir en varios días.
+Aunque organizativamente y quizás por razones de eficiencia sería deseable que todo el mundo hiciese los 15 TFG a la vez (ya sea en un sólo día o en dos seguidos durante el mismo llamamiento), a veces esto no es posible o preferible. Se preguntará también si se prefiere hacen todos en un mismo día o repartir en varios días.
 
 # 4. Tutorización
 
