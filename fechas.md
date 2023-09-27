@@ -6,16 +6,23 @@ description: Fechas
 
 ##### FECHAS 2022-2023
 
-PRIMER LLAMAMIENTO (Defensa Junio)
+CONVOCATORIA ANTICIPADA (Otoño, Defensa Febrero 2024)
 
-- 22 Mayo - 05 Junio: Solicitud de inscripción del estudiante
-- 12 JUNIO: Fecha de entrega final del TFG
-- 13 Junio - 20 Junio: Entrega del informe del tutor
-- 26 Junio - 30 Junio: Defensas ante tribunal
+- **Fecha de entrega final del TFG**: 31 ENERO
+- Solicitud de inscripción del estudiante para defensa: por determinar
+- Entrega del informe del tutor: principios de Febrero
+- Defensas ante tribunal: mediados - finales de Febrero
 
-SEGUNDO LLAMAMIENTO (Defensa Septiembre)
+PRIMER LLAMAMIENTO (Defensa Junio 2024)
 
-- 15 Junio - 29 Junio: Solicitud de inscripción del estudiante
-- 11 JULIO: Fecha de entrega final del TFG
-- 12 Julio - 20 Julio: Entrega del informe del tutor
-- Primera mitad de Septiembre: Defensas ante tribunal
+- **Fecha de entrega final del TFG**: 6 JUNIO
+- Solicitud de inscripción del estudiante para defensa: finales Mayo
+- Entrega del informe del tutor: mediados de Junio
+- Defensas ante tribunal: finales de Junio - principios de Julio
+
+SEGUNDO LLAMAMIENTO (Defensa Septiembre 2024)
+
+- **Fecha de entrega final del TFG**: mediados de Julio
+- Solicitud de inscripción del estudiante para defensa: finales de Junio
+- Entrega del informe del tutor: mediados de Julio
+- Defensas ante tribunal: primera mitad de Septiembre
