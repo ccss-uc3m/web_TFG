@@ -4,7 +4,7 @@ author: |
   | Departamento de Ciencias Sociales, UC3M -- Sept 2023
 ---
 
-<!--- pandoc files/manual_interno.md -o files/manual_interno_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
+<!--- pandoc files/manual_interno.md -o files/manual_interno_profesores_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
 <!--- *(English version at the end)* -->
 
 *(English version at the end)*
