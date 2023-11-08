@@ -1,58 +1,25 @@
-\documentclass[utf8, xcolor=dvipsnames]{beamer}
-% \usetheme{Frankfurt} % Boadilla - Ilmenau
+\documentclass[aspectratio=43]{beamer}
+% \documentclass[aspectratio=169]{beamer}
 
-\usepackage{graphicx}
-\usepackage{setspace}
-\usepackage{csquotes}
-\usepackage{changepage}
-\usepackage{color}
-\usepackage[colorlinks = TRUE, allcolors = blue]{hyperref}
-\useinnertheme{rectangles}
-\usepackage{tikz}
-\usetikzlibrary{graphs}
+% Title --------------------------------------------
+\title{Información TFG\\Ciencias Políticas / Estudios Internacionales}
+\author{Francisco Villamil\\(\texttt{francisco.villamil@uc3m.es})\\Coordinador de TFG de CCPP y EEII}
+\date{Curso 2023--2024}
 
-\setbeamercovered{transparent}
-\setbeamercolor{title}{bg=Blue, fg=white}
-\setbeamercolor{title_int}{bg=white, fg=Blue}
-\setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{itemize items}[circle]
-\setbeamertemplate{blocks}[default]
-\setbeamertemplate{headline}[default]
-\setbeamertemplate{section in head}{}
-\setbeamertemplate{subsection in head}{}
-\setbeamercolor{section in foot}{fg=Blue, bg=white}
-\setbeamercolor{subsection in foot}{fg=Blue, bg=white}
-\setbeamercolor{frametitle}{fg=Blue, bg=white}
-\setbeamercolor{footlinecolor}{bg=white,fg=Blue}
-\useoutertheme[compress]{miniframes}
+\input{beamer_preamble.tex}
 
-\makeatother
-\setbeamertemplate{footline}
-{%
-  \leavevmode%
-  \hbox{
-  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex,leftskip=.3cm,rightskip=.3cm plus1fil]{footlinecolor}%
-    \usebeamerfont{author in head/foot}
-    \insertshorttitle\hfill\insertshortauthor\hfill\insertshortdate\hfill\insertframenumber/\inserttotalframenumber
-  \end{beamercolorbox}}%
-  \vskip0pt%
-}
-\setbeamertemplate{headline}[default]
-{%
-    \def\beamer@entrycode{\vspace*{0pt}}
-}
-\makeatletter
-
-\title[]{Información TFG\\Ciencias Políticas / Estudios Internacionales}
-\author[]{Francisco Villamil\\(\texttt{francisco.villamil@uc3m.es})\\Coordinador de TFG de CCPP y EEII}
-\date[]{2022--2023}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
 
 \begin{document}
+% ====================================================
 
+% ----------------------------------------------------
 \begin{frame}
   \titlepage
 \end{frame}
-
+% ----------------------------------------------------
 
 % ----------------------------------------------------
 \begin{frame}
@@ -60,14 +27,14 @@
 \centering
 
 \begin{itemize}
+  \item Información Departamento de Ciencias Sociales
+  \item[] \BGyellow{\url{https://ccss-uc3m.github.io/TFG/}}
+  \item[]
   \item Información general Facultad de Ciencias Sociales y Jurídicas
   \item[] {\footnotesize \url{https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoDosColumnas/1371241563580/Trabajo_de_Fin_de_Grad}}
   \item[]
   \item Reglamento TFG de la FCSJ
   \item[] {\footnotesize \url{https://www.uc3m.es/secretaria-virtual/media/secretaria-virtual/doc/archivo/doc_reglamento-tfg-20-21/reglamento-tfg_sept_2020.pdf}}
-  \item[]
-  \item Información Departamento de Ciencias Sociales
-  \item[] {\footnotesize \url{https://franvillamil.github.io/TFG}}
 \end{itemize}
 
 \end{frame}
@@ -184,6 +151,7 @@
   \item \textbf{30\%} nota de seguimiento del \textbf{tutor}
   \begin{itemize}
     \item Media de la nota de 1) planificación, 2) seguimiento y 3) presentación
+    \item También incorpora algo de la calidad del contenido del TFG
   \end{itemize}
   \item[]
   \item \textbf{70\%} nota del \textbf{tribunal} en defensa pública
@@ -208,8 +176,7 @@
   \item \textbf{Presentación}
   \item[] {\small La memoria cumple los requisitos formales y de calidad exigidos.}
   \item[]
-  \item Tutor/a informará al estudiante de la nota y si la evaluación es positiva o negativa (se puede defender igualmente)
-  \item \textbf{{\color{red}{Importante}}} empezar temprano y tener contacto con el tutor (puede suspenderse esta nota si el estudiante trabaja al margen del tutor)
+  \item \BGyellow{\textbf{Importante}} empezar temprano y tener contacto con el tutor (se puede suspender esta nota si estudiante trabaja al margen del tutor)
 \end{itemize}
 
 \end{frame}
@@ -237,7 +204,7 @@
 \centering
 
 \begin{itemize}
-  \item Defensa pública, que ha de ser \textbf{presencial}, salvo causas muy justicadas
+  \item Defensa pública de 20 minutos, que ha de ser \textbf{presencial}, salvo causas muy justicadas
   \begin{itemize}
     \item \textbf{10 minutos} de presentación oral
     \item \textbf{5 minutos} de preguntas del tribunal
@@ -276,14 +243,49 @@
 \centering
 
 \begin{itemize}
-  \item El tribunal evaluador debe detallar la calificación de cada uno de los items
+  \item El tribunal evaluador debe detallar la calificación de cada parte
   \item El/la estudiante dispone de un tiempo máximo de 5 minutos
-  para exponer sus alegaciones de forma verbal, tras lo cual el tribunal formulará las
+  para exponer sus alegaciones por escrito, tras lo cual el tribunal formulará las
   explicaciones que considere convenientes y comunicará si la
   reclamación ha sido estimada
   \item El tribunal evaluador debe indicar en el acta si se ha solicitado la revisión y si esta ha supuesto algun cambio
-  \item[]
-  \item Tras esto, sólo se puede reclamar ante Decanato si la revisión no hubiese tenido lugar o si hubiese irregularidades manifiestas (reglamento, Art. 24)
+  \item Tras esto, ya no hay revisiones de la nota
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Artículo 24: Revisión ante Decanato}
+\centering
+
+\begin{itemize}
+  \item Un/a estudiante que considere que han producido irregularidades manifiestas en la evaluación de su TFG puede presentar un recurso ante la Decana en los 10 días siguientes a la fecha de su defensa
+  \begin{itemize}
+    \item El recurso debe presentarse por la sede electrónica de la FCSJ
+  \end{itemize}
+  \item \BGyellow{\textbf{No supone una revisión adicional para recalificar el TFG}}, la nota no se puede cambiar
+  \item Solamente se admitirá a trámite si se han producido alguna de las siguientes situaciones:
+  \begin{itemize}
+    \item No realización del procedimiento de revisión
+    \item Irregularidades manifiestas en la calificación del trabajo
+  \end{itemize}
+  \item En ausencia de dichas situaciones, el recurso puede desestimarse
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Artículo 24: Revisión ante Decanato}
+\centering
+
+\begin{itemize}
+  \item El/la estudiante debe acreditar \textbf{por escrito} que se han producido dichas irregularidades
+  \item La disconformidad con la calificación, en ausencia de dichas irregularidades, \BGyellow{no es motivo de recurso}
+  \item Si el recurso se admite a trámite, la Decana convocará una Comisión que deliberará sobre la reclamación presentada
 \end{itemize}
 
 \end{frame}
@@ -311,6 +313,7 @@
 \begin{itemize}
   \item Todos los trabajos pasan por \textbf{Turnitin}
   \item ``Los trabajos en los que se haya detectado plagio se calificarán con un cero-suspenso, haciéndose constar en el acta dicha circunstancia, sin perjuicio de la apertura del procedimiento disciplinario que, en su caso, proceda''
+  \item \textbf{Turnitin también detecta el \BGyellow{uso de IA}}
 \end{itemize}
 
 
@@ -323,11 +326,11 @@
 \centering
 
 \begin{itemize}
-  \item Periodo de tutorización: desde la asignación hasta el final del periodo lectivo
+  \item Periodo de tutorización: desde la asignación \textbf{hasta el final del periodo lectivo}
   \begin{itemize}
     \item \textbf{Nota:} incluso aunque se posponga al segundo llamamiento
   \end{itemize}
-  \item Tutorías (mínimo de 5h en total, de las cuales al menos 3h individuales):
+  \item Tutorías (mínimo de 5h en total, al menos 3h individuales):
   \begin{itemize}
     \item Colectivas
     \item Individuales
@@ -346,13 +349,8 @@
 \centering
 
 \begin{itemize}
-  \item \textbf{Idioma:} depende de la titulación (CP: español, EI: inglés)
-  \item[]
-  \item \textbf{Extensión:} max. 25 páginas, Times New Roman 12, interlineado 1.5 y márgenes estándar (2.25cm). (Se excluye el Appendix, pero incluye todo lo demás: bibliografía, gráficos, etc.)
-  \item \textbf{Tablas y gráficos:} en el texto principal, numeradas/os.
-  \item \textbf{Appendix:} al final, incluye toda la información adicional.
-  \item \textbf{Bibligrafía:} no hay un estilo prefijado, pero sí que ha de ser coherente y único: referencias ordenadas alfabéticamente al final, citas correctas: e.g. Smith (2010), etc.
-  \item \textbf{Portada:} estructura estándar con todos los datos necesarios (nombre, apellidos, NIU, email, título, nombre tutor...)
+  \item Ver: \BGyellow{\textbf{GUÍA PARA ESTUDIANTES - TFG CCPP / EEII}}
+  \item[] (La podéis encontrar en \url{https://ccss-uc3m.github.io/TFG/})
 \end{itemize}
 
 \end{frame}
@@ -364,10 +362,32 @@
 \centering
 
 \begin{itemize}
-  \item Trabajo de investigación original research paper with a clear question
+  \item \textbf{Idioma:} depende de la titulación (CP: español, EI: inglés)
+  \item[]
+  \item \textbf{Extensión:} 10.000 palabras, incluyendo \textbf{inclyendo todo} (también bibliografía), salvo Anexos
+  \item \textbf{Tablas y gráficos:} en el texto principal, numeradas/os
+  \item \textbf{Anexos/appendix:} al final, incluye toda la información adicional
+  \item \textbf{Bibligrafía:} no hay un estilo prefijado, pero sí que ha de ser coherente y único: referencias ordenadas alfabéticamente al final, citas correctas: e.g. Smith (2010), etc
+  \item \textbf{Portada:} estructura estándar con todos los datos necesarios (nombre, apellidos, NIU, email, título, nombre tutor...)
+  \begin{itemize}
+    \item Modelo disponible en la web
+  \end{itemize}
+\end{itemize}
+
+\end{frame}
+% ----------------------------------------------------
+
+% ----------------------------------------------------
+\begin{frame}
+\frametitle{Normas básicas del TFG}
+\centering
+
+\begin{itemize}
+  \item \textbf{Trabajo de investigación original}
   \item Pregunta de investigación, y evidencia empírica para responderla
   \begin{itemize}
-    \item Valen tanto datos cualitativos como cuantitativos
+    \item Valen tanto datos \textbf{cualitativos} como \textbf{cuantitativos}
+    \item \textbf{Trabajos teóricos}: contenido original
   \end{itemize}
   \item Estructura típica
   \begin{itemize}
@@ -394,4 +414,5 @@ Preguntas?
 \end{frame}
 % ----------------------------------------------------
 
+% ====================================================
 \end{document}
