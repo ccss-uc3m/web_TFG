@@ -6,7 +6,7 @@ title: |
 author: |
   | Departamento de Ciencias Sociales
   | Universidad Carlos III de Madrid
-date: "2023-2024"
+date: "2024-2025"
 ---
 
 <!--- pandoc files/guia_estudiantes_TFG.md -o files/guia_estudiantes_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
@@ -17,7 +17,7 @@ date: "2023-2024"
 
 ## Matrícula y cuestiones administrativas
 
-Las instrucción y normas para la matrícula se publican en la [web de Secretaría Virtual](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoDosColumnas/1371241563580/Trabajo_de_Fin_de_Grad). Las preguntas sobre el proceso de matriculación y otras cuestiones administrativas se han de hacer al Director de la Oficina de Estudiantes de la FCSJ, Raúl Blanco ([rblanco@pa.uc3m.es](rblanco@pa.uc3m.es)).
+Las instrucción y normas para la matrícula se publican en la [web de Secretaría Virtual](https://www.uc3m.es/ss/Satellite/SecretariaVirtual/es/TextoDosColumnas/1371241563580/Trabajo_de_Fin_de_Grad). Las preguntas sobre el proceso de matriculación y otras cuestiones administrativas se han de hacer a la Oficina de Estudiantes de la FCSJ ([tfgcsj@uc3m.es](tfgcsj@uc3m.es)).
 
 ## Asignación de tutores
 
