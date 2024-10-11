@@ -9,7 +9,8 @@ Esta página contiene información general y recursos para la realización de lo
 
 - [GUÍA PARA ESTUDIANTES - TFG CCPP / EEII](files/guia_estudiantes_TFG.pdf)
 - [INFORMACIÓN GENERAL](files/slides/slides_TFG.pdf)
-- <!-- [FECHAS CLAVE 2024-2025](./fechas.html) -->
+- [PREGUNTAS FRECUENTES](./FAQ.html)
+<!-- - [FECHAS CLAVE 2024-2025](./fechas.html) -->
 <!-- - Convocatoria: [TFG Ideas Lab 'Europa' / Laboratorio de Ideas 'Europa'](files/ideas_lab_europa_2324.pdf) -->
 <!-- - [SOLICITUD DEFENSA ONLINE (llamamiento junio 2023)](./defensa_online.html) -->
 
