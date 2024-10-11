@@ -21,11 +21,12 @@ En construcción.
 
 - Si estoy en la convocatoria anticipada (primer cuatrimestre), ¿cuándo puedo defender?
 
-blah blah
+El llamamiento natural es el de enero (entrega a finales de enero y defensas a lo largo del mes de febrero). Sin embargo, a los estudiantes que están inscritos en la anticipada y que no entreguen el trabajo en enero se les permite entregarlo en cualquiera de los dos llamamientos de la convocatoria ordinaria, sea en junio o septiembre.
+ 
 
-- Si estoy en la convocatoria general (segundo cuatrimestre), ¿cuándo puedo defender?
+- Si estoy en la convocatoria ordinaria (segundo cuatrimestre), ¿cuándo puedo defender?
 
-blah blah
+Hay dos llamamientos, junio (entrega y defensa en junio) y julio/septiembre (entrega en julio y defensa en septiembre). Se puede solicitar cualquiera de ellos, pero sólo uno de los dos.
 
 - ¿Cómo elijo el llamamiento para entregar y defender el TFG?
 
