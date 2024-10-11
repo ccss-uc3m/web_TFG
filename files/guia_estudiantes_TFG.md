@@ -31,7 +31,7 @@ Los TFG de Ciencias Políticas serán en **español**, mientras que los de Estud
 
 Además de eso, existen una serie de normas básicas de formato:
 
-- **Portada:** Deberá figurar el título del TFG, nombre, apellidos, NIU y correo electrónico del estudiante, así como el año académico y grado en el que se incluye el TFG presentado. También figurará el nombre del tutor. [Aquí](https://franvillamil.github.io/TFG/) hay modelos de portada disponibles.
+- **Portada:** Deberá figurar el título del TFG, nombre, apellidos, NIU y correo electrónico del estudiante, así como el año académico y grado en el que se incluye el TFG presentado. También figurará el nombre del tutor. [Aquí](https://ccss-uc3m.github.io/TFG/) hay modelos de portada disponibles.
 - El TFG debe incluir, al inicio, las siguientes páginas:
   1. La portada
   2. Un resumen de 200-250 palabras
@@ -79,7 +79,7 @@ Para trabajos teóricos:
 
 ## Tutorización, obligaciones y evaluación
 
-Las obligaciones del tutor y del estudiante están recogidas en los artículos 9 y 10 del Reglamento de organización de la asignatura Trabajo Fin de Grado de la Facultad de Ciencias Sociales y Jurídicas, disponible [aquí](https://franvillamil.github.io/TFG/files/Reglamento_TFG_Sept_2020_FCSJ.pdf).
+Las obligaciones del tutor y del estudiante están recogidas en los artículos 9 y 10 del Reglamento de organización de la asignatura Trabajo Fin de Grado de la Facultad de Ciencias Sociales y Jurídicas, disponible [aquí](https://ccss-uc3m.github.io/TFG/files/Reglamento_TFG_Sept_2020_FCSJ.pdf).
 
 El tutor establecerá un **mínimo de dos sesiones** de orientación **durante el periodo lectivo**, que pueden ser colectivas o individuales. El mínimo de tutorización será de **cinco horas por estudiante, de las cuales tres han de ser individuales**. Las obligaciones de tutorización terminan con el periodo lectivo del cuatrimestre en el que se realice el TFG.
 
@@ -105,7 +105,7 @@ Todos los TFG deben ser evaluados en un tribunal público, formado por dos profe
 - El tribunal podrá hacer **preguntas durante 5 minutos**
 - Se reservan otros 5 minutos para que el tribunal delibere la nota a puerta cerrada
 
-La nota final será la media ponderada entre la nota del tribunal (**70%**) y la nota del tutor (**30%**). Los miembros del tribunal comunicarán durante ese mismo día la nota a cada uno de los estudiantes, que tendrán que firmar el acta si están conformes con ella. En caso de que no lo estén, podrán pedir una revisión de la nota, que se realizará en el momento. Los detalles sobre este procedimiento están en el [reglamento de TFG de la FCSJ](https://franvillamil.github.io/TFG/files/Reglamento_TFG_Sept_2020_FCSJ.pdf).
+La nota final será la media ponderada entre la nota del tribunal (**70%**) y la nota del tutor (**30%**). Los miembros del tribunal comunicarán durante ese mismo día la nota a cada uno de los estudiantes, que tendrán que firmar el acta si están conformes con ella. En caso de que no lo estén, podrán pedir una revisión de la nota, que se realizará en el momento. Los detalles sobre este procedimiento están en el [reglamento de TFG de la FCSJ](https://ccss-uc3m.github.io/TFG/files/Reglamento_TFG_Sept_2020_FCSJ.pdf).
 
 ## Otras recomendaciones
 

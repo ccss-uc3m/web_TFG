@@ -1,7 +1,7 @@
 ---
 title: Manual interno sobre TFG
 author: |
-  | Departamento de Ciencias Sociales, UC3M -- Sept 2023
+  | Departamento de Ciencias Sociales, UC3M -- Sept 2024
 ---
 
 <!--- pandoc files/manual_interno.md -o files/manual_interno_profesores_TFG.pdf --pdf-engine=xelatex -V mainfont="Palatino" -V geometry:margin=0.8in -V fontsize=12pt -V urlcolor=magenta -->
@@ -122,7 +122,7 @@ que ha mostrado iniciativa para buscar soluciones válidas y justificadas de for
 
 ### 4.2 Formato y reglas del TFG
 
-Las reglas sobre el formato y estructura del TFG están recogidas en un documento aparte (**Guia de TFG Ciencia Política / Estudios Internacionales**), que se puede encontrar en la [web de TFG del departamento](https://franvillamil.github.io/TFG/), y que se ha redactado para el curso 2023-2024. Hay alguna guía antigua circulando, así que sería deseable que, cuando los alumnos pregunten por esto, se les envíe la guía *actualizada*. En cualquier caso se les explican estas reglas en la sesión de información, pero muchos no acuden a ella.
+Las reglas sobre el formato y estructura del TFG están recogidas en un documento aparte (**Guia de TFG Ciencia Política / Estudios Internacionales**), que se puede encontrar en la [web de TFG del departamento](https://ccss-uc3m.github.io/TFG/), y que se ha redactado para el curso 2023-2024. Hay alguna guía antigua circulando, así que sería deseable que, cuando los alumnos pregunten por esto, se les envíe la guía *actualizada*. En cualquier caso se les explican estas reglas en la sesión de información, pero muchos no acuden a ella.
 
 # 5. Tribunales y evaluación
 
