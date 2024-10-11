@@ -4,10 +4,7 @@ title: Preguntas Frecuentes
 description: Preguntas Frecuentes
 ---
 
-##### PREGUNTAS FRECUENTES
-
-En construcción.
-
+### PREGUNTAS FRECUENTES
 
 <!--
 - fechas y llamamientos. qué pasa si lo muevo a julio/septiembre.
@@ -17,7 +14,7 @@ En construcción.
 - puedo tener un tutor de fuera de la UC3M?
 -->
 
-**LLAMAMIENTO Y DEFENSA**
+#### LLAMAMIENTO Y DEFENSA
 
 - **Si estoy en la convocatoria anticipada (primer cuatrimestre), ¿cuándo puedo defender?**
 
@@ -40,7 +37,7 @@ Puedes solicitar el llamamiento y no entregar el TFG. La evaluación comienza co
 
 Reglamento: "Los estudiantes que, habiendo matriculado la asignatura, no cumplieran con el mínimo de créditos exigidos para su evaluación, podrán dispensar la convocatoria. Si el trabajo ya hubiese sido depositado e informado favorablemente por el tutor, el estudiante podrá presentar el mismo trabajo en la siguiente convocatoria a la que se presente."
 
-**TUTORES Y OFERTAS**
+#### TUTORES Y OFERTAS
 
 <!--
 - ¿Se puede elegir un tutor de manera individual y hacer el TFG por la vía específica?
@@ -54,3 +51,5 @@ No es posible salvo en situaciones extraordinarias.
 - **¿Puedo tener un tutor de fuera de la UC3M?**
 
 En principio, no, al menos formalmente. El reglamento indica que el tutor tiene que ser un profesor perteneciente a un departamento con docencia en el grado al que corresponde el TFG.
+
+<!-- #### CONTENIDO DEL TFG -->
