@@ -58,17 +58,8 @@
 \setbeamertemplate{title page}
 {
     \begin{centering}
-      % \vspace{20mm}
-      {\Large \usebeamerfont{title}\usebeamercolor[fg]{title}\inserttitle}\\ \vskip0.25em%
-      \ifx\insertsubtitle\@empty%
-      \else%
-        {\usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle\par}%
-      \fi%
-      {\vspace{10mm}\insertauthor}\\
-      \ifx\insertinstitute\@empty%
-      \else%
-        {\vspace{5mm}\color{asher}\scriptsize{\insertinstitute}}\\\vspace{5mm}
-      \fi%
+      {\Large \usebeamerfont{title}\usebeamercolor[fg]{title}\inserttitle}\\ \vspace{5pt}
+      {\vspace{10mm}{\insertauthor}}\\ \vspace{15pt}
       {\color{asher}\small{\insertdate}}\\
     \end{centering}
 }

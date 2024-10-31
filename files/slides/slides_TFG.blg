@@ -1,5 +1,5 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is 'slides_TFG.blg'
-[97] biber-darwin:322> INFO - === Wed Nov  8, 2023, 21:02:38
-[114] Biber.pm:415> INFO - Reading 'slides_TFG.bcf'
-[220] Utils.pm:304> WARN - No data sources defined!
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'slides_TFG.blg'
+[50] biber-darwin:340> INFO - === Thu Oct 31, 2024, 14:05:36
+[60] Biber.pm:415> INFO - Reading 'slides_TFG.bcf'
+[126] Utils.pm:395> WARN - No data sources defined!
